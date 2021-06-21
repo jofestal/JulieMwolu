@@ -1,9 +1,9 @@
 {
-    "name": "JulieMwol",
-    "description": "JulieMwol project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "JulieMwolu",
+    "description": "JulieMwolu project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83164448?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/farhan-dqz/JulieMwol",
+    "repository": "https://github.com/jofestal/JulieMwolu",
     "website":   "https://t.me/farhan-dqz",
     "success_url": "https://t.me/farhan-dqz",
     "stack": "container",
@@ -86,7 +86,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "```I am Alive```\n\n```Coded By Farhan_Dqz```"
+            "value": "```I am Alive```\n\n```Coded By Glitch```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
